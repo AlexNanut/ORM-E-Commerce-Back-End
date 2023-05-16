@@ -1,7 +1,7 @@
 # ORM-E-Commerce-Back-End
 
 ## Description
-The back-end database has been purposed towards e-commerce websites using Express.js API and Sequelize to connect to the MySQL database. The back-end database allows users to create a development database, seed it with test data, and sync Sequelize models to MySQL database. User's have the ability to use GET, POST, PUT, and DELETE routes to display and manipulate data in the users database. Give it a try and see how it helps your company power up to the next level!
+The back-end database has been purposed towards e-commerce websites using Express.js API and Sequelize to connect to the MySQL database. The back-end database allows users to create a development database, seed it with test data, and sync Sequelize models to MySQL database. The users have the ability to use GET, POST, PUT, and DELETE routes to display and manipulate data in the users database.
 
 ## Table of Contents:
 - [Overview](#Overview)
@@ -40,13 +40,15 @@ This challenge requires the creation of an e-commerce back-end site that meets s
 * WHEN I test API POST, PUT, and DELETE routes in Insomnia
 * THEN I am able to successfully create, update, and delete data in my database
 
-## GIF:
-### Figure .1 GIF
 
-The following animation demonstrates the application functionality:
+### Figure .1 
+
+The following photo demonstrates the application functionality in Insomnia: <img width="1440" alt="Screenshot insomnia" src="https://github.com/AlexNanut/ORM-E-Commerce-Back-End/assets/108309770/81c3305b-69b5-404f-8323-83dbf997111e">
 
 
-## Usage Instructions
+
+
+## Usage Information
 1. Repository: Open documentation run 'npm i' and update '.env'.
 2. Create database: use the schema.sql file in the db folder with MySQL shell commands. Use environment variables to store sensitive data like your MySQL username, password, and database name.
 3. Run 'npm run seed' to seed the database with test data. Then, run 'npm start' or 'nodemon' to start the server and sync the Sequelize models to the MySQL database.
@@ -54,31 +56,29 @@ The following animation demonstrates the application functionality:
 5. Use Insomnia to test http://localhost:3001 with the following route end points API GET, POST, PUT, and DELETE routes for categories, products, and tags, ensuring successful creation, updating, and deletion of data in the database.
 
 ## Deployed Application Link:
-[Deployed Application Link:](https://github.com/)
+[Deployed Application Link:](https://github.com/https://github.com/AlexNanut/ORM-E-Commerce-Back-End)
 
 ## GitHub Repository:
-[GitHub Repository:](https://github.com/)
+[GitHub Repository:](https://github.com/https://github.com/AlexNanut/ORM-E-Commerce-Back-End)
 
 ## Built With
-- JSON:[ JSON](https://www.npmjs.com/package/json)
+- JSON
 - Dynamic JavaScript
-- Dotenv: [8.6.0](https://www.npmjs.com/package/dotenv)
-- Express: [4.17.1](https://www.npmjs.com/package/express)
-- Node.js: [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
-- Express.js:[Express.js](https://expressjs.com/en/starter/installing.html)
-- Node MySql2: [2.3.3](https://www.npmjs.com/package/mysql2)
-- Sequelize: [6.29.3](https://www.npmjs.com/package/sequelize)
-- Insomnia: [by Kong](https://insomnia.rest/)
-- Nodemon: [2.0.12](https://www.npmjs.com/package/nodemon/v/2.0.12)
-- License Badge: [Shields.io](https://shields.io/)
-- Visual Studio Code: [Website](https://code.visualstudio.com/)
+- Express
+- Node.js
+- Express.js
+- Node MySql2
+- Sequelize
+- Insomnia
+- Nodemon
+
 
 ## What I Learned:
 1. How to use Express.js to create a functional back end for an e-commerce website.
-2. How to connect to a MySQL database using Sequelize and update environment variable files accordingly.
+2. How to connect to a MySQL database using Sequelize.
 3. How to generate a development database with test data using schema and seed commands.
 
 ## Continued Development:
 1. Implement the latest technologies, such as Express.js, MySQL, and Sequelize to create a functional back end for the e-commerce website.
-2. Ensure that the environment variable file is updated with the database name, MySQL username, and MySQL password to connect to the database using Sequelize.
-3. Create schema and seed commands to generate a development database with test data, allowing for a smooth testing process.
+2. Ensure that I can get the routs for all categories in Insomnia. 
+

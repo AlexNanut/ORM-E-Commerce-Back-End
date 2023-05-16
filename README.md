@@ -56,10 +56,10 @@ The following photo demonstrates the application functionality in Insomnia: <img
 5. Use Insomnia to test http://localhost:3001 with the following route end points API GET, POST, PUT, and DELETE routes for categories, products, and tags, ensuring successful creation, updating, and deletion of data in the database.
 
 ## Deployed Application Link:
-[Deployed Application Link:](https://github.com/https://github.com/AlexNanut/ORM-E-Commerce-Back-End)
+[Deployed Application Link:](https://github.com/AlexNanut/ORM-E-Commerce-Back-End)
 
 ## GitHub Repository:
-[GitHub Repository:](https://github.com/https://github.com/AlexNanut/ORM-E-Commerce-Back-End)
+[GitHub Repository:](https://github.com/AlexNanut/ORM-E-Commerce-Back-End)
 
 ## Built With
 - JSON
